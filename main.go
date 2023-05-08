@@ -6,9 +6,8 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/spf13/viper"
-
 	"github.com/shomali11/slacker"
+	"github.com/spf13/viper"
 )
 
 // Here's what the function does:
