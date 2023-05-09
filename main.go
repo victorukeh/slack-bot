@@ -10,6 +10,10 @@ import (
 	"github.com/spf13/viper"
 )
 
+func test() {
+
+}
+
 // Here's what the function does:
 //  1. It takes in a channel of slacker.CommandEvent values called "analyticsChannel".
 //  2. It continuously listens on the channel for incoming command events.
